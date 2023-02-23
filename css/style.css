@@ -1,3 +1,8 @@
 .flex {
   display: flex;
 }
+@media (max-width: 650px) {
+  body{
+        text-align: center;
+
+  }
